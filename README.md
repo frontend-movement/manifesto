@@ -8,9 +8,8 @@ We firmly believe that the Front-End Development is an _essential_ part of the c
 
 ## Principles
 
-- **The front-end part of a software development cycle _is not less important_ than the other parts**
-- **Being a Front-End Developer requires _more vertical than horizontal knowledge_ in the spectrum of software development – we do not believe in _full-stack_ development**
-- **No one should be discriminated in a work environment because he or she deals with Front-End Development – being a Frontender _is not less worthy_ than having other roles**
+- The Front-End part of a software development process _is not less important_ than the other parts
+- Being a Front-End Developer requires _more vertical than horizontal knowledge_ in the spectrum of software development – we do not believe in _full-stack_ development
 
 ## How To Sign
 
